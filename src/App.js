@@ -15,10 +15,10 @@ function App() {
                             </h1>
                         </Col>
                     </Row>
-                    <Row>
-                        <div className="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                    <Row xl={1} lg={1} md={1} sm={1} xs={1}>
+                        <Col>
                             <StreamAndChat/>
-                        </div>
+                        </Col>
                     </Row>
                 </div>
             </section>
