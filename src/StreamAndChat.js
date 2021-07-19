@@ -1,17 +1,16 @@
 import React from 'react';
 import { TwitchEmbed } from 'react-twitch-embed';
 
-const Stream = () => {
+const StreamAndChat = () => {
     return (
-        <div>
-            <TwitchEmbed
-                channel="RennPlayz"
-                id="RennPlayz-StreamAndChat"
-                theme="dark"
-                muted
-            />
-        </div>
+        <TwitchEmbed
+            channel="RennPlayz"
+            id="RennPlayz-StreamAndChat"
+            theme="dark"
+            muted
+            onVideoPlay={() => document.title = 'RennPlayz is LIVE!'}
+        />
     );
 };
 
-export default Stream;
+export default StreamAndChat;
