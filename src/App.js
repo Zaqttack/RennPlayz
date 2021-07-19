@@ -1,5 +1,5 @@
 import './App.css'
-import {Row, Col, Card} from 'react-bootstrap';
+import {Row, Col} from 'react-bootstrap';
 import StreamAndChat from './StreamAndChat';
 import FooterCards from './FooterCards';
 

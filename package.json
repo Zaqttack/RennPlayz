@@ -1,7 +1,7 @@
 {
   "name": "RennPlayz",
   "version": "0.1.0",
-  "homepage": "https://zaqttack.github.io/RennPlayz/",
+  "homepage": "https://zaqttack.github.io/RennPlayz",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
