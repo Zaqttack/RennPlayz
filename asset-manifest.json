@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/RennPlayz/static/css/main.9de8ab27.chunk.css",
-    "main.js": "/RennPlayz/static/js/main.00844167.chunk.js",
-    "main.js.map": "/RennPlayz/static/js/main.00844167.chunk.js.map",
+    "main.js": "/RennPlayz/static/js/main.396474df.chunk.js",
+    "main.js.map": "/RennPlayz/static/js/main.396474df.chunk.js.map",
     "runtime-main.js": "/RennPlayz/static/js/runtime-main.5a1eb0c2.js",
     "runtime-main.js.map": "/RennPlayz/static/js/runtime-main.5a1eb0c2.js.map",
     "static/css/2.4be38407.chunk.css": "/RennPlayz/static/css/2.4be38407.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.4be38407.chunk.css",
     "static/js/2.bb45d392.chunk.js",
     "static/css/main.9de8ab27.chunk.css",
-    "static/js/main.00844167.chunk.js"
+    "static/js/main.396474df.chunk.js"
   ]
 }
