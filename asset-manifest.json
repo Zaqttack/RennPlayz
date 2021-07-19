@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/RennPlayz/static/css/main.9de8ab27.chunk.css",
+    "main.css": "/RennPlayz/static/css/main.e98d1169.chunk.css",
     "main.js": "/RennPlayz/static/js/main.396474df.chunk.js",
     "main.js.map": "/RennPlayz/static/js/main.396474df.chunk.js.map",
     "runtime-main.js": "/RennPlayz/static/js/runtime-main.5a1eb0c2.js",
@@ -12,14 +12,14 @@
     "static/js/3.8685af6f.chunk.js.map": "/RennPlayz/static/js/3.8685af6f.chunk.js.map",
     "index.html": "/RennPlayz/index.html",
     "static/css/2.4be38407.chunk.css.map": "/RennPlayz/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.9de8ab27.chunk.css.map": "/RennPlayz/static/css/main.9de8ab27.chunk.css.map",
+    "static/css/main.e98d1169.chunk.css.map": "/RennPlayz/static/css/main.e98d1169.chunk.css.map",
     "static/js/2.bb45d392.chunk.js.LICENSE.txt": "/RennPlayz/static/js/2.bb45d392.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5a1eb0c2.js",
     "static/css/2.4be38407.chunk.css",
     "static/js/2.bb45d392.chunk.js",
-    "static/css/main.9de8ab27.chunk.css",
+    "static/css/main.e98d1169.chunk.css",
     "static/js/main.396474df.chunk.js"
   ]
 }
