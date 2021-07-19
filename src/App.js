@@ -1,7 +1,7 @@
 import './App.css'
 import {Row, Col, Card} from 'react-bootstrap';
 import StreamAndChat from './StreamAndChat';
-import CardFooter from './CardFooter';
+import FooterCards from './FooterCards';
 
 function App() {
     return (
@@ -22,7 +22,7 @@ function App() {
                     </Row>
                 </div>
             </section>
-            <CardFooter />
+            <FooterCards />
         </>
     );
 }
