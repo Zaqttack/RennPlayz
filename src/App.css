@@ -1,6 +1,7 @@
 :root {
   --brand-color: #ff94eb;
   --brown: #2a2215;
+  --highlight: green;
 }
 
 h1 {
@@ -25,6 +26,23 @@ h1 {
 
 .container {
   margin: 20px 5% 20px 5%;
+}
+
+
+
+/*
+  CARD STYLING
+ */
+.card-header-color {
+  background-color: var(--brand-color) !important;
+}
+
+.card-item:hover {
+  background-color: var(--brown) !important;
+}
+
+.card-link {
+  text-decoration: none;
 }
 
 
