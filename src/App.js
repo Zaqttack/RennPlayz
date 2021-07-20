@@ -1,4 +1,4 @@
-import './App.css'
+import './style/App.css'
 import { Container, Row, Col} from 'react-bootstrap';
 import StreamAndChat from './StreamAndChat';
 import InformationCards from './InformationCards';
