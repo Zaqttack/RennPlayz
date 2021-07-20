@@ -1,7 +1,8 @@
 import './App.css'
 import { Container, Row, Col} from 'react-bootstrap';
 import StreamAndChat from './StreamAndChat';
-import FooterCards from './FooterCards';
+import InformationCards from './InformationCards';
+import Footer from "./Footer";
 
 function App() {
     return (
@@ -22,7 +23,8 @@ function App() {
                     </Row>
                 </Container>
             </section>
-            <FooterCards />
+            <InformationCards />
+            <Footer />
         </>
     );
 }
