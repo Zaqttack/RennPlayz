@@ -1,4 +1,3 @@
-import React from 'react';
 import { SocialIcon } from 'react-social-icons';
 import { Container, Row } from "react-bootstrap";
 import './style/Footer.css'
